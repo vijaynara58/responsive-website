@@ -87,7 +87,7 @@ header, section {
     max-width: 34rem;
 }
 .bg-light { 
-    background-color: var(--clr-neutral-100);
+    background-color: var(--clr-primary-200);
 }
 .bg-primary { 
     color: var(--clr-neutral-100);
